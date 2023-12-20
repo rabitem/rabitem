@@ -2,7 +2,7 @@
 
 
 👨‍🎓About me:
-- 💨 21 years old
+- 💨 22 years old
 - 👀 Interested in everything about technology
 - 👨‍💻 Coding since 2013
 - 💯 Skills: Java, C++, C#, JS, HTML, CSS
