@@ -23,4 +23,4 @@ Hi, I'm Felix, a rabbit with a keyboard from Wiesbaden.
 ## Currently building
 
 - 🚑 [**Rettungshelden**](https://rettungshelden.com): First aid. For everyone.
-- 🃏 [**Wizard Party**](https://wizardparty.fun): A card game with friends, online.
+- 🃏 [**Wizard Party**](https://wizardparty.fun): The Wizard card game at a 3D table in your browser, with friends or bots. [Open source](https://github.com/rabitem/wizard-party).
