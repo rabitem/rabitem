@@ -1,20 +1,26 @@
-# Felix Huisinga (@rabitem)
+<div align="center">
 
-**Senior Software Engineer – Instant Payments Solutions**  
-Deutsche Bank · Frankfurt, Germany
+<img src="assets/rabbit-banner.gif" width="680" alt="A low-poly rabbit hops in, eats a carrot, puffs up and pops into triangles" />
 
-- [LinkedIn](https://www.linkedin.com/in/felix-huisinga-9247801b6)
-- [Email](mailto:rabitem2.0@gmail.com)
-- [GitHub](https://github.com/rabitem)
+# rabitem
 
----
+**Somebunny has to ship it.** 🥕
 
-## About
+Hi, I'm Felix, a rabbit with a keyboard from Wiesbaden.
 
-Senior Software Engineer working on real-time payment systems at Deutsche Bank.  
-Strong background in backend engineering, distributed systems, and cloud-native infrastructure.
+</div>
 
-- Born October 9, 2001  
-- Coding since 2013  
-- 11+ years of development experience  
-- Focus on low-latency, high-availability financial systems
+## Find me
+
+| | |
+| --- | --- |
+| 🌐 Website | [rabitem.de](https://rabitem.de) |
+| 𝕏 X | [@r_a_b_i_t_e_m](https://x.com/r_a_b_i_t_e_m) |
+| 💼 LinkedIn | [felixhuisinga](https://linkedin.com/in/felixhuisinga) |
+| 🎮 Discord | `rabitem` |
+| ✉️ Email | [developer@rabitem.de](mailto:developer@rabitem.de) |
+
+## Currently building
+
+- 🚑 [**Rettungshelden**](https://rettungshelden.com): First aid. For everyone.
+- 🃏 [**Wizard Party**](https://wizardparty.fun): A card game with friends, online.
